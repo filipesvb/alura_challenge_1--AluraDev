@@ -1,0 +1,14 @@
+:root {
+  --dark: #051d3b;
+  --inactive: #1b3b74;
+  --primary: #5081fb;
+  --secondary: #7ba4fc;
+  --terciary: #96b9fd;
+
+  --pd-sm: 0.25rem;
+  --pd-md: 0.5rem;
+  --pd-l: 0.75rem;
+  --pd-xl: 1rem;
+
+  --pd-contain: 2rem;
+}
